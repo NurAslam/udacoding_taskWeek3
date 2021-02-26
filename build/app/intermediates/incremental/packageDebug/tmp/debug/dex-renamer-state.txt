@@ -1,0 +1,4 @@
+#Fri Feb 26 11:18:13 SGT 2021
+base.0=D\:\\Aslam Lagi Belajar\\Pemrograman\\Android\\Flutter\\Udacoding\\udacoding_week3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
